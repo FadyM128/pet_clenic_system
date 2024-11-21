@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\projects\Project1\Project1\Source.cpp(82,17): warning C4129: 'P': unrecognized character escape sequence
+D:\projects\Project1\Project1\Source.cpp(47): warning C4715: 'login': not all control paths return a value
+  Project1.vcxproj -> D:\projects\Project1\Debug\Project1.exe
